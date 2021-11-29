@@ -9,6 +9,6 @@ Revela o conteúdo da página com uma animação de acordo com a rolagem do usu�
 
 # 🖥️ Resultado
 <div align="center">
-  <img alt="Website Review Animation" src="./.github/website-reveal-animation.gif" >
+  <img alt="Website Review Animation" src="./.github/website-reveal-animation.gif" width="450px">
   <p>Confira o resultado: <a href="https://website-reveal-animation-ruuuff.netlify.app/">Website Reveal Animation</a></p>
 </div>
